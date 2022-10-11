@@ -1,0 +1,11 @@
+C:\Users\merrt\source\repos\Calculators\Calculators\bin\Debug\Calculators.exe.config
+C:\Users\merrt\source\repos\Calculators\Calculators\bin\Debug\Calculators.exe
+C:\Users\merrt\source\repos\Calculators\Calculators\bin\Debug\Calculators.pdb
+C:\Users\merrt\source\repos\Calculators\Calculators\obj\Debug\Calculators.csproj.AssemblyReference.cache
+C:\Users\merrt\source\repos\Calculators\Calculators\obj\Debug\Calculators.csproj.SuggestedBindingRedirects.cache
+C:\Users\merrt\source\repos\Calculators\Calculators\obj\Debug\Calculators.Form1.resources
+C:\Users\merrt\source\repos\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+C:\Users\merrt\source\repos\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.cache
+C:\Users\merrt\source\repos\Calculators\Calculators\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\merrt\source\repos\Calculators\Calculators\obj\Debug\Calculators.exe
+C:\Users\merrt\source\repos\Calculators\Calculators\obj\Debug\Calculators.pdb
